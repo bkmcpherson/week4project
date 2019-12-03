@@ -12,3 +12,4 @@ This project accomplishes the following on a raw data set from (https://d396qusz
    
 FILES:
 run_analysis.R - performs all of the above actions to create a tidy data set.
+data.tidy.txt - output file from run_alaysis.R
