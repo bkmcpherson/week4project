@@ -1,5 +1,7 @@
 CODEBOOK
 
+Original data codebook can be found at (http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions#)
+
 Original dataset labels transformed by changing:
 t -> TimeDomain_
 f -> FrequencyDomain_
